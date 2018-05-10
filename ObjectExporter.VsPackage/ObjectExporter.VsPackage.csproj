@@ -136,6 +136,9 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls">
+      <HintPath>..\lib\Telerik\Telerik.WinControls.dll</HintPath>
+    </Reference>
     <Reference Include="Telerik.WinControls.CompositeUI, Version=2012.1.321.20, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\TelerikWinCompositeUI.2012.1.321.20\lib\Telerik.WinControls.CompositeUI.dll</HintPath>
     </Reference>
@@ -151,6 +154,9 @@
     <Reference Include="Telerik.WinControls.Themes.TelerikMetro, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\lib\Telerik\Telerik.WinControls.Themes.TelerikMetro.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.TelerikMetroBlue">
+      <HintPath>..\lib\Telerik\Telerik.WinControls.Themes.TelerikMetroBlue.dll</HintPath>
     </Reference>
     <Reference Include="Telerik.WinControls.UI, Version=2012.1.321.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
       <HintPath>..\packages\TelerikWinCompositeUI.2012.1.321.20\lib\Telerik.WinControls.UI.dll</HintPath>
