@@ -1,4 +1,6 @@
-﻿namespace ObjectExporter.VsPackage.Views
+﻿using Telerik.WinControls.UI.radche
+
+namespace ObjectExporter.VsPackage.Views
 {
     partial class FormSelectObjects
     {
